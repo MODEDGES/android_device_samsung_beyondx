@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyondx.mk
+    $(LOCAL_DIR)/spark_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyondx-eng \
-    lineage_beyondx-user \
-    lineage_beyondx-userdebug
+    spark_beyondx-eng \
+    spark_beyondx-user \
+    spark_beyondx-userdebug
