@@ -40,7 +40,7 @@ $(call inherit-product, vendor/droidx/config/common_full_phone.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 
 ## Device identifier, this must come after all inclusions
-PRODUCT_NAME := lineage_beyondx
+PRODUCT_NAME := droidx_beyondx
 PRODUCT_DEVICE := beyondx
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G977B
